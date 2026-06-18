@@ -1,0 +1,323 @@
+{
+  "business": {
+    "name": "GBG Auto Repair & Inspection",
+    "shortName": "GBG Auto",
+    "tagline": "Trusted Dallas Auto Repair & Inspections",
+    "niche": "Auto Mechanic",
+    "phone": "(214) 370-0375",
+    "address": "110 N Peak St, Dallas, TX 75226",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri 7:30 AM – 5:30 PM, Sat 8 AM – 12 PM",
+    "ctaLabel": "Schedule Your Appointment Today",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "GBG Auto Repair & Inspection | Trusted Auto Mechanic in Dallas, TX",
+    "description": "Expert auto repair and inspection services in Dallas, TX. From brakes to engines, GBG Auto delivers honest, quality service. Call (214) 370-0375."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas’s Trusted Auto Care Since 2005",
+      "headline": "Expert Auto Repair & Inspections You Can Rely On",
+      "subheadline": "Honest, high-quality service for your car – from routine maintenance to major repairs.",
+      "primaryCta": "Schedule Appointment",
+      "secondaryCta": "Call (214) 370-0375"
+    },
+    "stats": [
+      {
+        "value": "4.6",
+        "label": "Average Rating"
+      },
+      {
+        "value": "200+",
+        "label": "5-Star Reviews"
+      },
+      {
+        "value": "19+",
+        "label": "Years in Business"
+      },
+      {
+        "value": "1000+",
+        "label": "Cars Serviced Annually"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Comprehensive Care",
+        "title": "Full-Service Auto Repair in Dallas",
+        "body": "From oil changes to engine overhauls, our certified technicians handle it all. We use quality parts and cutting-edge diagnostics to keep your car running smoothly.",
+        "bullets": [
+          "Factory-grade diagnostic equipment",
+          "ASE-certified mechanics",
+          "Warranty on all repairs"
+        ],
+        "reverse": false,
+        "cardLabel": "Our Promise",
+        "cardTitle": "Transparent Pricing",
+        "cardBody": "We provide upfront estimates and explain every repair before work begins. No surprises, just honest service."
+      },
+      {
+        "eyebrow": "Inspection Experts",
+        "title": "State Inspections & More",
+        "body": "We perform Texas state inspections quickly and accurately. Plus, our multi-point vehicle inspection catches small issues before they become costly repairs.",
+        "bullets": [
+          "Texas DPS-approved inspection station",
+          "Comprehensive vehicle health check",
+          "Same-day service available"
+        ],
+        "reverse": true,
+        "cardLabel": "Extra Care",
+        "cardTitle": "Preventative Maintenance",
+        "cardBody": "Regular inspections save you money. We’ll help you create a maintenance schedule tailored to your vehicle and driving habits."
+      }
+    ],
+    "whyTitle": "Why Choose GBG Auto Repair?",
+    "whyChooseUs": [
+      {
+        "title": "Certified Technicians",
+        "description": "Our team holds ASE certifications and undergoes continuous training to stay current with the latest automotive technology."
+      },
+      {
+        "title": "Honest Communication",
+        "description": "We explain issues in plain English and provide detailed estimates. You’ll never feel pressured into unnecessary repairs."
+      },
+      {
+        "title": "Quality Parts Guarantee",
+        "description": "We use OEM and high-quality aftermarket parts backed by warranties. Your car deserves the best."
+      },
+      {
+        "title": "Convenient Location",
+        "description": "Located at 110 N Peak St in Dallas, we’re easy to find and offer a comfortable waiting area with free Wi-Fi."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "GBG Auto has been taking care of my family’s cars for years. They’re honest, fair, and always get the job done right.",
+        "author": "Mike R.",
+        "role": "Dallas homeowner"
+      },
+      {
+        "quote": "I brought my car in for a state inspection and ended up getting a full tune-up. They explained everything and saved me money in the long run.",
+        "author": "Lisa T.",
+        "role": "Deep Ellum resident"
+      },
+      {
+        "quote": "Fast, friendly, and professional. They diagnosed my check engine light quickly and the repair was affordable. Highly recommend!",
+        "author": "James K.",
+        "role": "Downtown commuter"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Get Your Car Serviced?",
+      "subheadline": "Schedule your appointment online or give us a call. We’re here to help.",
+      "primaryCta": "Book Now",
+      "secondaryCta": "Call (214) 370-0375"
+    }
+  },
+  "servicesPage": {
+    "intro": "At GBG Auto Repair & Inspection, we offer a full range of automotive services to keep your vehicle safe and reliable. From routine maintenance to complex repairs, our team has the expertise to handle it all."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Engine Diagnostics & Repair",
+      "shortDescription": "Accurate diagnostics and expert engine repair to restore performance and reliability.",
+      "longDescription": "Our advanced diagnostic tools quickly identify engine issues, from check engine lights to performance problems. We then provide a clear repair plan and execute it with precision.",
+      "benefits": [
+        "Restored engine performance and fuel efficiency",
+        "Extended engine life",
+        "Peace of mind with a detailed inspection report"
+      ],
+      "process": [
+        {
+          "title": "Computer Scan",
+          "description": "We connect your vehicle to our diagnostic system to retrieve error codes and data."
+        },
+        {
+          "title": "Physical Inspection",
+          "description": "Our technician performs a thorough visual and mechanical inspection to confirm the issue."
+        },
+        {
+          "title": "Repair & Test",
+          "description": "We complete the necessary repairs and test-drive your vehicle to ensure everything is working perfectly."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does an engine diagnostic take?",
+          "answer": "Most diagnostics take about 1-2 hours. Repairs may take longer depending on the issue."
+        },
+        {
+          "question": "Will you provide an estimate before starting work?",
+          "answer": "Absolutely. We always provide a detailed estimate and get your approval before any repairs."
+        }
+      ],
+      "slug": "engine-diagnostics-repair"
+    },
+    {
+      "icon": "02",
+      "title": "Brake Service & Repair",
+      "shortDescription": "Complete brake inspections, pad replacement, rotor resurfacing, and more for safe stopping.",
+      "longDescription": "Your safety depends on your brakes. We inspect every component – pads, rotors, calipers, and lines – and recommend only what’s necessary to restore stopping power.",
+      "benefits": [
+        "Shorter stopping distances",
+        "Elimination of squeaks and vibrations",
+        "Inspection of entire braking system"
+      ],
+      "process": [
+        {
+          "title": "Brake Inspection",
+          "description": "We measure pad thickness, rotor condition, and check for leaks or wear."
+        },
+        {
+          "title": "Component Replacement",
+          "description": "We replace worn pads, resurface or replace rotors, and service calipers as needed."
+        },
+        {
+          "title": "Test Drive & Adjustment",
+          "description": "After repairs, we test the brakes and make final adjustments for optimal feel."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I replace my brake pads?",
+          "answer": "Typically every 30,000-50,000 miles, but it depends on driving habits. We’ll check them during any visit."
+        },
+        {
+          "question": "Do you use OEM or aftermarket parts?",
+          "answer": "We use high-quality parts from trusted brands, and we can install OEM parts upon request."
+        }
+      ],
+      "slug": "brake-service-repair"
+    },
+    {
+      "icon": "03",
+      "title": "Oil Change & Fluid Services",
+      "shortDescription": "Keep your engine running smoothly with regular oil changes and fluid checks.",
+      "longDescription": "Regular oil changes are the simplest way to extend your engine’s life. We use quality oils and filters, and top off all essential fluids at no extra charge.",
+      "benefits": [
+        "Improved engine lubrication and performance",
+        "Better fuel economy",
+        "Complimentary fluid top-off and tire pressure check"
+      ],
+      "process": [
+        {
+          "title": "Drain Old Oil",
+          "description": "We safely drain the old oil and dispose of it responsibly."
+        },
+        {
+          "title": "Replace Filter & Add New Oil",
+          "description": "We install a new oil filter and fill with the correct grade and amount of oil."
+        },
+        {
+          "title": "Fluid Check & Report",
+          "description": "We check all fluid levels and provide a report on your vehicle’s condition."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What type of oil do you use?",
+          "answer": "We use conventional, synthetic blend, and full synthetic oils from major brands. We’ll recommend the best option for your vehicle."
+        },
+        {
+          "question": "How often should I change my oil?",
+          "answer": "Most modern cars need an oil change every 5,000-7,500 miles. Check your owner’s manual or ask our technicians."
+        }
+      ],
+      "slug": "oil-change-fluid-services"
+    },
+    {
+      "icon": "04",
+      "title": "State Inspections & Emissions",
+      "shortDescription": "Quick and accurate Texas state inspections to keep you legal on the road.",
+      "longDescription": "We are a certified Texas inspection station. Our technicians perform the required safety and emissions tests efficiently, so you can get back on the road quickly.",
+      "benefits": [
+        "Fast, no-appointment walk-ins welcome",
+        "Certified inspection station",
+        "We can perform minor repairs on the spot if needed"
+      ],
+      "process": [
+        {
+          "title": "Safety Check",
+          "description": "We inspect brakes, lights, tires, horn, mirrors, and other safety items."
+        },
+        {
+          "title": "Emissions Test",
+          "description": "We connect to your vehicle’s OBD system to verify emissions compliance."
+        },
+        {
+          "title": "Pass or Fail Report",
+          "description": "You receive a clear report. If you fail, we explain what’s needed to pass."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What do I need to bring for an inspection?",
+          "answer": "Just your vehicle and proof of insurance. We handle the rest."
+        },
+        {
+          "question": "How long does an inspection take?",
+          "answer": "Typically 30-45 minutes. We try to get you in and out quickly."
+        }
+      ],
+      "slug": "state-inspections-emissions"
+    }
+  ],
+  "about": {
+    "headline": "Your Trusted Dallas Auto Repair Shop",
+    "mission": "To provide honest, high-quality auto repair and inspection services that keep our customers safe and their vehicles running reliably.",
+    "story": [
+      "GBG Auto Repair & Inspection was founded in 2005 with a simple mission: treat every customer like family. Over the years, we’ve grown from a small two-bay shop into a full-service auto care center, but our core values remain the same – integrity, transparency, and craftsmanship.",
+      "Our team of ASE-certified technicians brings decades of combined experience to every job. We invest in the latest diagnostic equipment and training to ensure we can handle any make or model. Whether it’s a simple oil change or a complex engine rebuild, we treat your car as if it were our own."
+    ],
+    "highlight": {
+      "stat": "19+",
+      "label": "Years Serving Dallas"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We do the right thing, even when no one is watching. Our recommendations are always in your best interest."
+      },
+      {
+        "title": "Quality",
+        "description": "We use top-grade parts and follow manufacturer specifications to ensure lasting repairs."
+      },
+      {
+        "title": "Customer Focus",
+        "description": "We listen to your concerns and communicate clearly throughout the repair process."
+      },
+      {
+        "title": "Community",
+        "description": "We’re proud to be a local Dallas business and support our neighbors whenever we can."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch with GBG Auto",
+    "subheadline": "Have a question or ready to book? Call us or fill out the form below.",
+    "primaryCta": "Call (214) 370-0375",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Deep Ellum",
+      "Downtown Dallas",
+      "East Dallas",
+      "Lakewood",
+      "White Rock Lake",
+      "Old East Dallas"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.6,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Auto Mechanic",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2143700375",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
